@@ -2,10 +2,26 @@
     margin: 0;
     padding: 0;
 }
+.color{
+    color:white;
+    background-color: red;
+    text-transform: uppercase;
+}
 header{
     background-color: papayawhip;
-    height: 40px;
+    height: 80x;
     width: 100%;
     display: grid;
     place-items: center;
+}
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+footer{
+    background-color: papayawhip;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
