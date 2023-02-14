@@ -9,3 +9,9 @@ header{
     display: grid;
     place-items: center;
 }
+
+.descripcion{
+    display: grid;
+    place-items: center;
+    color: blueviolet;
+}
