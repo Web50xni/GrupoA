@@ -2,6 +2,11 @@
     margin: 0;
     padding: 0;
 }
+.color{
+    color:white;
+    background-color: red;
+    text-transform: uppercase;
+}
 header{
     background-color: papayawhip;
     height: 40px;
